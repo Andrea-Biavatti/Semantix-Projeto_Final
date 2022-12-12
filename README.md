@@ -2,6 +2,9 @@
 
  Projeto Final da Trilha Big Data Science.
 
+## ( EM CONSTRUÇÃO - PREVISÃO DE CONCLUSÃO: 14/12/2022)
+
+
 <details><summary> ✅ COMPOSIÇÃO DO PROJETO </summary>
 
 <p>
